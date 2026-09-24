@@ -14,7 +14,7 @@ For the selected Powerpoint layout:
 - for the Highlights placeholder on the Front Page, do not send the individual Highlights as separate placeholder calls. Populate as one multiline string with line breaks between the benefit statements.
 
 ## POPULATING BENEFIT ICONS with IBM PICTOGRAMS
-- Use the Github tool to retrieve the pictogram index using these parameters. owner=melfitzp repo=Agent-Files path=/mapping/files/pictogram-index.csv
+- Use the Github tool to retrieve the pictogram index using these parameters: owner=melfitzp repo=Agent-Files path=/mapping/files/pictogram-index.csv
 - When creating and populating the Benefits slide (layouts `Benefits Page - 4 Benefits` and `Benefits Page - 5 Benefits`, choose the most appropriate pictogram from the index
 - Put the pictogram in the corresponding Icon placeholder, constructing the URL of the pictogram as follows:
   https://raw.githubusercontent.com/melfitzp/Agent-Files/main/pictograms/<File Name>.png
