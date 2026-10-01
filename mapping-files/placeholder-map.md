@@ -24,6 +24,12 @@ Mapping notation:
 
 `placeholder index = canonical messaging content`
 
+### Instructions to Author
+
+Layout=`Instructions to Author`
+
+- 10  = Any notes you have to the user about the messaging (e.g. missing citations, open items, etc.)
+
 ### Front Page
 
 Layout: `Front Page`
@@ -202,3 +208,15 @@ Layout: `Back Page`
 - 29 = Citations
 - 30 = Copyright Statement
 - 31 = Date Produced
+
+### Pictograms Page 1
+
+Layout=`Pictograms Page 1`
+
+- no placeholders to fill
+  
+### Pictograms Page 2
+
+Layout=`Pictograms Page 2`
+
+- no placeholders to fill
