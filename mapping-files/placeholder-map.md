@@ -41,7 +41,7 @@ Layout: `Front Page`
 - 12 = Case for Change
 - 13 = What-if Statement
 - 14 = Asset Description
-- 16 = Front-page image
+- 16 = Front Page Image
 
 ### Capabilities: 4 with Images or Screenshots
 
@@ -202,7 +202,7 @@ Layout: `Benefits Page - 5 Benefits`
 
 Layout: `Back Page`
 
-- 22 = IBM Consulting image
+- 22 = Back Page Image
 - 26 = Why IBM
 - 27 = Call to Action
 - 29 = Citations
