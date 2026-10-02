@@ -35,7 +35,7 @@ For the selected Powerpoint layout:
 
 Layout=`Instructions to Author`
 
-- 10  = Any notes you have to the user about the messaging (e.g. missing citations, open items, etc.), including the URL of the Front Page Image you generated
+- 10  = Notes from the agent - any notes you have to the user about the messaging (e.g. missing citations, open items, etc.), including the URL of the Front Page Image you generated
 
 ### Front Page
 
