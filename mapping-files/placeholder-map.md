@@ -20,15 +20,22 @@ For the selected Powerpoint layout:
 - Put the pictogram in the corresponding Icon placeholder, constructing the URL of the pictogram as follows:
   https://raw.githubusercontent.com/melfitzp/Agent-Files/main/pictograms/<File Name>.png
 
-Mapping notation:
+  ## POPULATING THE BACK PAGE IMAGE
+- Use the Github tool: github-server-get-file-contents to retrieve the offering image index using these parameters:
+  owner=melfitzp repo=Agent-Files path=/mapping-files/offering-image-index.csv
+- When creating and populating the Back Page slide (layout `Back Page`), choose the image from the index that corresponds to the Offering. If one cannot be found, use DEF.png
+- Put the image in the Back Page Image placeholder, constructing the URL of the image as follows:
+  https://raw.githubusercontent.com/melfitzp/Agent-Files/main/ibmc-images/<File Name>.png
+
+## Mapping notation:
 
 `placeholder index = canonical messaging content`
 
-### Instructions to Author
+### Instructions to Author Page
 
 Layout=`Instructions to Author`
 
-- 10  = Any notes you have to the user about the messaging (e.g. missing citations, open items, etc.)
+- 10  = Any notes you have to the user about the messaging (e.g. missing citations, open items, etc.), including the URL of the Front Page Image you generated
 
 ### Front Page
 
@@ -41,7 +48,7 @@ Layout: `Front Page`
 - 12 = Case for Change
 - 13 = What-if Statement
 - 14 = Asset Description
-- 16 = Front Page Image
+- 16 = Front Page Image placeholder (do not populate)
 
 ### Capabilities: 4 with Images or Screenshots
 
